@@ -1,4 +1,4 @@
-# Recommender-system
+# Recommender-System
 Collect snap data and use recommender systems using deep learning algorithms and machine learning and rate prediction.
 
 # Explaine the concept of the algorithm
@@ -30,7 +30,7 @@ An embedding layer is a type of hidden layer in a neural network. In one sentenc
 
 
 ### Requirements
-Running `Smoke-Detection` requires:
+Running `Recommender-System` requires:
 * Python 3.8 (tested under Python 3.10.4)
 * Using Google Colab GPU
 
