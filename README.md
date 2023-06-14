@@ -1,8 +1,11 @@
 # Recommender-System
 Collect snap data and use recommender systems using deep learning algorithms and machine learning and rate prediction.
 
+
 # Explaine the concept of the algorithm
 We used three algoritm for this problem (SVD, SVDpp, NCF)
+
+
 
 ## Algoritm Singular Value Decomposition (SVD)
 
