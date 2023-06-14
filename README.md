@@ -3,13 +3,17 @@ Collect snap data and use recommender systems using deep learning algorithms and
 
 
 # Explaine the concept of the algorithm
-We used three algoritm for this problem (SVD, SVDpp, NCF)
+We used three algoritm for this problem (SVD, SVDpp, NCF).
 
 
 
 ## Algoritm Singular Value Decomposition (SVD)
 
 Run this `recommeder_system_SVD.ipynb` jupyter lab to see the algoritm.
+in this jupyter lab file, the loss function is Root Mean Squared Error.
+### Result for `recommeder_system_Deep_Learning_MSE.ipynb`
+loss (RMSE) : 0.8177
+
 In the context of the recommender system, the SVD is used as a collaborative filtering technique. It uses a matrix structure where each row represents a user, and each column represents an item. The elements of this matrix are the ratings that are given to items by users.
 
 ![bandicam 2023-06-14 20-10-43-510](https://github.com/AmirRezaFarokhy/Recommender-system/assets/113052872/d258f614-915e-471f-a248-4f5d5482901d)
@@ -17,13 +21,24 @@ In the context of the recommender system, the SVD is used as a collaborative fil
 ## Algoritm SVDpp
 
 Run this `recommeder_system_SVDpp.ipynb` jupyter lab to see the algoritm.
+in this jupyter lab file, the loss function is Root Mean Squared Error.
+### Result for `recommeder_system_Deep_Learning_MSE.ipynb`
+loss (RMSE) : 0.8530
 
 ![bandicam 2023-06-14 20-11-43-815](https://github.com/AmirRezaFarokhy/Recommender-system/assets/113052872/044a219c-800d-4016-9bfb-1e0af581fd35)
 
 
 ## Neural Collaborative Filtering Recommendation (NCF)
 
-Run this `recommeder_system_Deep_Learning.ipynb` jupyter lab to see the algoritm.
+Run this `recommeder_system_Deep_Learning_1.ipynb` jupyter lab to see the algoritm.
+in this jupyter lab file, we normilize the rating column between 0, 1 and the loss is Binary Cross Entropy.
+### Result for `recommeder_system_Deep_Learning_1.ipynb`
+loss (binary cross entropy) : 
+
+Run this `recommeder_system_Deep_Learning_MSE.ipynb` jupyter lab to see the algoritm.
+in this jupyter lab file, the loss function is Mean Squared Error.
+### Result for `recommeder_system_Deep_Learning_MSE.ipynb`
+loss (MSE) : 
 
 ![bandicam 2023-06-15 02-20-24-152](https://github.com/AmirRezaFarokhy/Recommender-system/assets/113052872/04042da0-8eff-4799-aa6a-905fc4b33263)
 
