@@ -2,6 +2,10 @@
 Collect snap data and use recommender systems using deep learning algorithms and machine learning and rate prediction.
 
 
+## Download Dataset
+https://drive.google.com/file/d/1-BivapOkCSDZclmOGAonw3jxRD4Fm4s5/view?usp=sharing
+
+
 ## Algoritm Singular Value Decomposition (SVD)
 
 Run this `recommeder_system_SVD.ipynb` jupyter lab to see the algoritm.
