@@ -33,7 +33,7 @@ in this jupyter lab file, we normilize the rating column between 0, 1 and the lo
 Run this `recommeder_system_Deep_Learning_MSE.ipynb` jupyter lab to see the algoritm.
 in this jupyter lab file, the loss function is Mean Squared Error.
 ### Result for### Result for Deep Learning with Mean Squared Error
-`loss (MSE) :  `
+`loss (MSE) : 9.3482`
 
 ![bandicam 2023-06-15 02-20-24-152](https://github.com/AmirRezaFarokhy/Recommender-system/assets/113052872/04042da0-8eff-4799-aa6a-905fc4b33263)
 
