@@ -28,7 +28,7 @@ in this jupyter lab file, the loss function is Root Mean Squared Error.
 Run this `recommeder_system_Deep_Learning_1.ipynb` jupyter lab to see the algoritm.
 in this jupyter lab file, we normilize the rating column between 0, 1 and the loss is Binary Cross Entropy.
 ### Result for Deep Learning with BinaryCrossEntropy
-`loss (binary cross entropy) : `
+`loss (binary cross entropy) : 0.6340`
 
 Run this `recommeder_system_Deep_Learning_MSE.ipynb` jupyter lab to see the algoritm.
 in this jupyter lab file, the loss function is Mean Squared Error.
